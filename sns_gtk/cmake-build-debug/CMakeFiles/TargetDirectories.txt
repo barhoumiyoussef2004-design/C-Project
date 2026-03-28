@@ -1,0 +1,3 @@
+C:/Users/barho/Desktop/sns_gtk/cmake-build-debug/CMakeFiles/UI_test.dir
+C:/Users/barho/Desktop/sns_gtk/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/barho/Desktop/sns_gtk/cmake-build-debug/CMakeFiles/rebuild_cache.dir
